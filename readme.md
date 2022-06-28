@@ -28,7 +28,7 @@
 
 Ну и хотите верьте хотите нет, но это рисунок от руки, а не фотография
 
-![masterpiece of nature](/04/a%20work%20of%20art.jpg)
+![masterpiece of nature](me.jpg)
 
 ну и пару анеков, Саша, ты же просил
 
